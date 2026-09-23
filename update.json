@@ -1,7 +1,7 @@
 {
-  "version": "v2.4",
-  "versionCode": 240,
-  "zip": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@main/AutoRescue_v2.4_by_shichen.zip",
-  "changelog": "进行优化并修复",
+  "version": "v2.5",
+  "versionCode": 250,
+  "zip": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@main/AutoRescue_v2.5_by_shichen.zip",
+  "changelog": "修复打开界面卡死、检测脚本卡死、KSU打开慢",
   "force": 0
 }
