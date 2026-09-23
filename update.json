@@ -1,1 +1,8 @@
-
+{
+  "version": "v2.0",
+  "versionCode": 200,
+  "url": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@v2.0/AutoRescue_v2.0_by_shichen.zip",
+  "size": 100762,
+  "changelog": "v2.0：救援等级精简为 3 级（原 L1/L2 已移除，原 L3/L4/L5 成为新的 L1/L2/L3）；最大救援等级上限由 5 收紧为 3；修复等级超上限时状态残留未钳制数值。\nv1.9：修复防护基线 du 递归导致整机卡死；修复启动计数永不自动清零；修复模块页两组筛选条串位。",
+  "notice": ""
+}
