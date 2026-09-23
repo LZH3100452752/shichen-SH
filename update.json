@@ -3,5 +3,5 @@
   "versionCode": 221,
   "zip": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@main/AutoRescue_v2.2_by_shichen.zip",
   "changelog": "修复进入界面弹出错误信息\n修复守护目录无法移除\n云更新改为默认开启\n工具页隐藏源链接",
-  "force": 1
+  "force": 0
 }
