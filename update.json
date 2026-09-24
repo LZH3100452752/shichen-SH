@@ -1,7 +1,7 @@
 {
-  "version": "v2.6",
-  "versionCode": 260,
-  "zip": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@main/AutoRescue_v2.6_by_shichen.zip",
-  "changelog": "恢复Gitee备用源；版本号更新至v2.6",
+  "version": "v2.7",
+  "versionCode": 270,
+  "zip": "https://cdn.jsdelivr.net/gh/LZH3100452752/shichen-SH@main/AutoRescue_v2.7_by_shichen.zip",
+  "changelog": "增加10种语言",
   "force": 0
 }
